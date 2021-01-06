@@ -2,7 +2,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/klnjmm/webandcow-challenge.git"
+            "url": "https://github.com/WebAndCow/webandcow-challenge.git"
         }
     ],
     "name": "webandcow/challenge-bootstrap",
@@ -21,7 +21,8 @@
     },
     "autoload": {
         "psr-4": {
-            "WebAndCow\\ChallengeBootstrap\\": "src/"
+            "WebAndCow\\ChallengeBootstrap\\": "src/",
+            "WebAndCow\\ChallengeBootstrap\\DataSet\\PierreFeuilleCiseaux\\": "dataset/pierre-feuille-ciseaux/"
         }
     },
     "autoload-dev": {
