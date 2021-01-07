@@ -9,14 +9,16 @@ use WebAndCow\Challenge\SolutionInterface;
 
 class Solution implements SolutionInterface
 {
-    /**
-     * @param array $data : $data retrieve from the API to resolve the challenge
-     * @return Response
-     */
     public function apply(array $data): Response
     {
-        // build your solution
-
+        /**
+         * BUILD YOUR SOLUTION HERE
+         * $data variable is dataset of the game
+         * You can use dump() function to debug and dd() function to debug and die
+         */
+        
+        
+        
         return new Response('PUT YOUR RESPONSE HERE');
     }
 }

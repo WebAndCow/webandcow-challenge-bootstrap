@@ -144,12 +144,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "de14691dc88bbbc5535de7f0e32080977dc1d23f"
+                "reference": "ec0101071dcbc6bdd5046da11df686f8515fa815"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/de14691dc88bbbc5535de7f0e32080977dc1d23f",
-                "reference": "de14691dc88bbbc5535de7f0e32080977dc1d23f",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/ec0101071dcbc6bdd5046da11df686f8515fa815",
+                "reference": "ec0101071dcbc6bdd5046da11df686f8515fa815",
                 "shasum": ""
             },
             "require": {
@@ -213,7 +213,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-12-27T09:28:48+00:00"
+            "time": "2021-01-06T10:19:43+00:00"
         },
         {
             "name": "symfony/polyfill-php80",
@@ -221,12 +221,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php80.git",
-                "reference": "54cc82c30ba7ed02bc64f5d010488c159b5f1706"
+                "reference": "69e5da91ad9c080f6ac1e010ddffefe71b14bd6e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/54cc82c30ba7ed02bc64f5d010488c159b5f1706",
-                "reference": "54cc82c30ba7ed02bc64f5d010488c159b5f1706",
+                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/69e5da91ad9c080f6ac1e010ddffefe71b14bd6e",
+                "reference": "69e5da91ad9c080f6ac1e010ddffefe71b14bd6e",
                 "shasum": ""
             },
             "require": {
@@ -293,7 +293,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-12-27T09:28:48+00:00"
+            "time": "2021-01-06T10:19:43+00:00"
         },
         {
             "name": "symfony/var-dumper",
@@ -436,17 +436,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/WebAndCow/webandcow-challenge.git",
-                "reference": "9e462a0c2fd9c98c0763068fefb16e13bcb64089"
+                "reference": "2602035c40eb8f66267578018d96968a61001e4c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WebAndCow/webandcow-challenge/zipball/9e462a0c2fd9c98c0763068fefb16e13bcb64089",
-                "reference": "9e462a0c2fd9c98c0763068fefb16e13bcb64089",
+                "url": "https://api.github.com/repos/WebAndCow/webandcow-challenge/zipball/2602035c40eb8f66267578018d96968a61001e4c",
+                "reference": "2602035c40eb8f66267578018d96968a61001e4c",
                 "shasum": ""
             },
             "require": {
                 "ext-json": "*",
-                "php": "~7.3"
+                "php": "~7.3",
+                "symfony/var-dumper": "^5.2"
             },
             "require-dev": {
                 "phpunit/phpunit": "^9.4",
@@ -466,11 +467,12 @@
             "license": [
                 "MIT"
             ],
-            "description": "My template for PHP project",
+            "description": "Library to play WebAndCow challenge",
             "support": {
-                "source": "https://github.com/WebAndCow/webandcow-challenge/tree/main"
+                "source": "https://github.com/WebAndCow/webandcow-challenge/tree/main",
+                "issues": "https://github.com/WebAndCow/webandcow-challenge/issues"
             },
-            "time": "2021-01-06T09:18:38+00:00"
+            "time": "2021-01-07T09:02:17+00:00"
         }
     ],
     "packages-dev": [
@@ -2311,12 +2313,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-ctype.git",
-                "reference": "7130f348df2f842044038aaae9d6653dc9d67649"
+                "reference": "7c0a3c5420fd802637c4260e595d6c674b23d578"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/7130f348df2f842044038aaae9d6653dc9d67649",
-                "reference": "7130f348df2f842044038aaae9d6653dc9d67649",
+                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/7c0a3c5420fd802637c4260e595d6c674b23d578",
+                "reference": "7c0a3c5420fd802637c4260e595d6c674b23d578",
                 "shasum": ""
             },
             "require": {
@@ -2379,7 +2381,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-12-27T09:28:48+00:00"
+            "time": "2021-01-06T10:19:43+00:00"
         },
         {
             "name": "theseer/tokenizer",
