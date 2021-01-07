@@ -12,7 +12,7 @@ $dotenv->load(__DIR__.'/.env');
 
 $solution = new \WebAndCow\ChallengeBootstrap\Solution();
 
-if (!empty($_ENV['WEBANDCOW_TEST_MODE'])) {
+if (!empty($_ENV['TEST_MODE'])) {
     $result = (new Test())->resolveWith($solution);
 } else {
     $result = (new Game())->resolveWith($solution);
