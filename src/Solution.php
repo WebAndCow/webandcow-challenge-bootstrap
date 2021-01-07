@@ -16,9 +16,9 @@ class Solution implements SolutionInterface
          * $data variable is dataset of the game
          * You can use dump() function to debug and dd() function to debug and die
          */
-        
-        
-        
+
+
+
         return new Response('PUT YOUR RESPONSE HERE');
     }
 }
