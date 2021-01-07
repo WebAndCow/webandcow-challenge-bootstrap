@@ -21,9 +21,8 @@ Let's code !
 
 ## How to resolve challenges
 
-* .Open `.env` file and fill `API_KEY` and `CHALLENGE_CODE` variables
+* .Open `.env` file and fill `API_KEY` variables
   * `API_KEY` can be copy from [your profile page](https://code-challenge.webandcow.com/achievments/visualisationAchievment)
-  * `CHALLENGE_CODE` can be copy from the challenge webpage.
 * Write your solution in `src/Solution.php`
 * Write your unit tests in `tests/units/SolutionTest.php` 
 * Try your solution : 
@@ -48,14 +47,6 @@ make code-sniffer
 
 
 ## Possible errors
-
-* Challenge code unknown. Please copy it again from the challenge webpage in `CHALLENGE_CODE`in your `.env` file
-```
-Exception: Error when contacting API -- Array
-(
-[0] => Engine inconnu ou non valide
-)
-```
 
 * Bad API KEY. Please copy it again from  [your profile page](https://code-challenge.webandcow.com/achievments/visualisationAchievment) in `API_KEY`in your `.env` file
 ```

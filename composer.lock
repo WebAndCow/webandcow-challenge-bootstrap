@@ -301,12 +301,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/var-dumper.git",
-                "reference": "c1f6cca46f45ee8ce8c802e245f2807b12993a87"
+                "reference": "0fb4a9a65f7096be331d812b77965b160dbd69d3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/var-dumper/zipball/c1f6cca46f45ee8ce8c802e245f2807b12993a87",
-                "reference": "c1f6cca46f45ee8ce8c802e245f2807b12993a87",
+                "url": "https://api.github.com/repos/symfony/var-dumper/zipball/0fb4a9a65f7096be331d812b77965b160dbd69d3",
+                "reference": "0fb4a9a65f7096be331d812b77965b160dbd69d3",
                 "shasum": ""
             },
             "require": {
@@ -378,7 +378,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-01-01T09:26:45+00:00"
+            "time": "2021-01-07T14:52:12+00:00"
         },
         {
             "name": "tightenco/collect",
@@ -436,12 +436,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/WebAndCow/webandcow-challenge.git",
-                "reference": "55e6470d931aabf739cd35b25879e19413131293"
+                "reference": "2ec9221cae6e1e56283cda99349e33867c48d2cd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WebAndCow/webandcow-challenge/zipball/55e6470d931aabf739cd35b25879e19413131293",
-                "reference": "55e6470d931aabf739cd35b25879e19413131293",
+                "url": "https://api.github.com/repos/WebAndCow/webandcow-challenge/zipball/2ec9221cae6e1e56283cda99349e33867c48d2cd",
+                "reference": "2ec9221cae6e1e56283cda99349e33867c48d2cd",
                 "shasum": ""
             },
             "require": {
@@ -472,7 +472,7 @@
                 "source": "https://github.com/WebAndCow/webandcow-challenge/tree/main",
                 "issues": "https://github.com/WebAndCow/webandcow-challenge/issues"
             },
-            "time": "2021-01-07T11:18:28+00:00"
+            "time": "2021-01-07T16:09:07+00:00"
         }
     ],
     "packages-dev": [

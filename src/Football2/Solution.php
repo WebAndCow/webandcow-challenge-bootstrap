@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace WebAndCow\ChallengeBootstrap;
+namespace WebAndCow\ChallengeBootstrap\Football2;
 
 use WebAndCow\Challenge\Response;
 use WebAndCow\Challenge\SolutionInterface;

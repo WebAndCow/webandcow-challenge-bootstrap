@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace WebAndCow\ChallengeBootstrap\tests\units;
+namespace WebAndCow\ChallengeBootstrap\HarryPotter;
 
 use PHPUnit\Framework\TestCase;
 
