@@ -436,12 +436,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/WebAndCow/webandcow-challenge.git",
-                "reference": "2602035c40eb8f66267578018d96968a61001e4c"
+                "reference": "fdff0a07a0f9baf262fd55d86383e25b6111e9b3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WebAndCow/webandcow-challenge/zipball/2602035c40eb8f66267578018d96968a61001e4c",
-                "reference": "2602035c40eb8f66267578018d96968a61001e4c",
+                "url": "https://api.github.com/repos/WebAndCow/webandcow-challenge/zipball/fdff0a07a0f9baf262fd55d86383e25b6111e9b3",
+                "reference": "fdff0a07a0f9baf262fd55d86383e25b6111e9b3",
                 "shasum": ""
             },
             "require": {
@@ -456,7 +456,7 @@
             "type": "project",
             "autoload": {
                 "psr-4": {
-                    "WebAndCow\\Challenge\\": "src"
+                    "WebAndCow\\Challenge\\": "src/"
                 }
             },
             "autoload-dev": {
@@ -472,7 +472,7 @@
                 "source": "https://github.com/WebAndCow/webandcow-challenge/tree/main",
                 "issues": "https://github.com/WebAndCow/webandcow-challenge/issues"
             },
-            "time": "2021-01-07T09:02:17+00:00"
+            "time": "2021-01-07T09:30:02+00:00"
         }
     ],
     "packages-dev": [

@@ -21,8 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "WebAndCow\\ChallengeBootstrap\\": "src/",
-            "WebAndCow\\ChallengeBootstrap\\DataSet\\PierreFeuilleCiseaux\\": "src/dataset/pierre-feuille-ciseaux/"
+            "WebAndCow\\ChallengeBootstrap\\": "src/"
         }
     },
     "autoload-dev": {
