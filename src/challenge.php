@@ -13,7 +13,7 @@ $dotenv->load(dirname(__DIR__) . '/.env');
 $solutionClass = '\WebAndCow\ChallengeBootstrap\\' . $_GET['challenge'] . '\Solution';
 $solution = new $solutionClass();
 
-if (!empty($_ENV['TEST_MODE'])) {
+if (!empty($_ENV['MODE']) && $_ENV['MODE'] == 'test') {
     $result = (new Test())->resolveWith($solution);
 } else {
     $result = (new Game())->resolveWith($solution);

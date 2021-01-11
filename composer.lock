@@ -144,12 +144,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "ec0101071dcbc6bdd5046da11df686f8515fa815"
+                "reference": "f377a3dd1fde44d37b9831d68dc8dea3ffd28e13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/ec0101071dcbc6bdd5046da11df686f8515fa815",
-                "reference": "ec0101071dcbc6bdd5046da11df686f8515fa815",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/f377a3dd1fde44d37b9831d68dc8dea3ffd28e13",
+                "reference": "f377a3dd1fde44d37b9831d68dc8dea3ffd28e13",
                 "shasum": ""
             },
             "require": {
@@ -161,7 +161,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "1.21-dev"
+                    "dev-main": "1.22-dev"
                 },
                 "thanks": {
                     "name": "symfony/polyfill",
@@ -213,7 +213,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-01-06T10:19:43+00:00"
+            "time": "2021-01-07T16:49:33+00:00"
         },
         {
             "name": "symfony/polyfill-php80",
@@ -221,12 +221,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php80.git",
-                "reference": "69e5da91ad9c080f6ac1e010ddffefe71b14bd6e"
+                "reference": "dc3063ba22c2a1fd2f45ed856374d79114998f91"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/69e5da91ad9c080f6ac1e010ddffefe71b14bd6e",
-                "reference": "69e5da91ad9c080f6ac1e010ddffefe71b14bd6e",
+                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/dc3063ba22c2a1fd2f45ed856374d79114998f91",
+                "reference": "dc3063ba22c2a1fd2f45ed856374d79114998f91",
                 "shasum": ""
             },
             "require": {
@@ -235,7 +235,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "1.21-dev"
+                    "dev-main": "1.22-dev"
                 },
                 "thanks": {
                     "name": "symfony/polyfill",
@@ -293,7 +293,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-01-06T10:19:43+00:00"
+            "time": "2021-01-07T16:49:33+00:00"
         },
         {
             "name": "symfony/var-dumper",
@@ -301,12 +301,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/var-dumper.git",
-                "reference": "0fb4a9a65f7096be331d812b77965b160dbd69d3"
+                "reference": "4e40176ae6446c529d4a31cb2dacf7a230cf5f6f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/var-dumper/zipball/0fb4a9a65f7096be331d812b77965b160dbd69d3",
-                "reference": "0fb4a9a65f7096be331d812b77965b160dbd69d3",
+                "url": "https://api.github.com/repos/symfony/var-dumper/zipball/4e40176ae6446c529d4a31cb2dacf7a230cf5f6f",
+                "reference": "4e40176ae6446c529d4a31cb2dacf7a230cf5f6f",
                 "shasum": ""
             },
             "require": {
@@ -358,7 +358,7 @@
                     "homepage": "https://symfony.com/contributors"
                 }
             ],
-            "description": "Symfony mechanism for exploring and dumping PHP variables",
+            "description": "Provides mechanisms for walking through any arbitrary PHP variable",
             "homepage": "https://symfony.com",
             "keywords": [
                 "debug",
@@ -378,7 +378,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-01-07T14:52:12+00:00"
+            "time": "2021-01-10T16:30:10+00:00"
         },
         {
             "name": "tightenco/collect",
@@ -436,12 +436,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/WebAndCow/webandcow-challenge.git",
-                "reference": "2ec9221cae6e1e56283cda99349e33867c48d2cd"
+                "reference": "c897451cd6498fe3b81478926a3e5c3040cd1276"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WebAndCow/webandcow-challenge/zipball/2ec9221cae6e1e56283cda99349e33867c48d2cd",
-                "reference": "2ec9221cae6e1e56283cda99349e33867c48d2cd",
+                "url": "https://api.github.com/repos/WebAndCow/webandcow-challenge/zipball/c897451cd6498fe3b81478926a3e5c3040cd1276",
+                "reference": "c897451cd6498fe3b81478926a3e5c3040cd1276",
                 "shasum": ""
             },
             "require": {
@@ -472,7 +472,7 @@
                 "source": "https://github.com/WebAndCow/webandcow-challenge/tree/main",
                 "issues": "https://github.com/WebAndCow/webandcow-challenge/issues"
             },
-            "time": "2021-01-07T16:09:07+00:00"
+            "time": "2021-01-08T10:57:38+00:00"
         }
     ],
     "packages-dev": [
@@ -2313,12 +2313,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-ctype.git",
-                "reference": "7c0a3c5420fd802637c4260e595d6c674b23d578"
+                "reference": "c6c942b1ac76c82448322025e084cadc56048b4e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/7c0a3c5420fd802637c4260e595d6c674b23d578",
-                "reference": "7c0a3c5420fd802637c4260e595d6c674b23d578",
+                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/c6c942b1ac76c82448322025e084cadc56048b4e",
+                "reference": "c6c942b1ac76c82448322025e084cadc56048b4e",
                 "shasum": ""
             },
             "require": {
@@ -2330,7 +2330,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "1.21-dev"
+                    "dev-main": "1.22-dev"
                 },
                 "thanks": {
                     "name": "symfony/polyfill",
@@ -2381,7 +2381,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-01-06T10:19:43+00:00"
+            "time": "2021-01-07T16:49:33+00:00"
         },
         {
             "name": "theseer/tokenizer",
