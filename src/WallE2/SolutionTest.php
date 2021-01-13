@@ -14,7 +14,7 @@ class SolutionTest extends TestCase
      * 
      * @dataProvider providerTestApplySolution
      */
-    public function test_apply_solution(array $data, string $expected)
+    public function test_apply_solution(array $data, $expected)
     {
         $solution = new Solution();
         $response = new Response($expected);
