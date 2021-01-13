@@ -10,7 +10,8 @@ use Symfony\Component\Dotenv\Dotenv;
 $dotenv = new Dotenv();
 $dotenv->load(dirname(__DIR__) . '/.env');
 
-$solutionClass = '\WebAndCow\ChallengeBootstrap\\' . $_GET['challenge'] . '\Solution';
+$codeChallenge = substr($_GET['challenge'], strrpos($_GET['challenge'], '/' ));
+$solutionClass = '\WebAndCow\ChallengeBootstrap\\' . $codeChallenge . '\Solution';
 $solution = new $solutionClass();
 
 if (!empty($_ENV['MODE']) && $_ENV['MODE'] == 'test') {
