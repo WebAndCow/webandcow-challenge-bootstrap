@@ -11,7 +11,7 @@ class SolutionTest extends TestCase
 {
     /**
      * Test your apply method of Solution class
-     * 
+     *
      * @dataProvider providerTestApplySolution
      */
     public function test_apply_solution(array $data, $expected)
@@ -25,9 +25,9 @@ class SolutionTest extends TestCase
     public function providerTestApplySolution()
     {
         $providers = [];
-        for ($i=1; $i <= 4; $i++) { 
+        for ($i = 1; $i <= 4; $i++) {
             $datasetClass = '\WebAndCow\ChallengeBootstrap\Lost1\Dataset\Dataset' . $i;
-            $dataSet = new $datasetClass;
+            $dataSet = new $datasetClass();
 
             $providers[] = [
                 'data' => $dataSet->getData(),

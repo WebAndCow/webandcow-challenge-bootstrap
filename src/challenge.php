@@ -10,7 +10,7 @@ use Symfony\Component\Dotenv\Dotenv;
 $dotenv = new Dotenv();
 $dotenv->load(dirname(__DIR__) . '/.env');
 
-$codeChallenge = substr($_GET['challenge'], strrpos($_GET['challenge'], '/' ));
+$codeChallenge = substr($_GET['challenge'], strrpos($_GET['challenge'], '/'));
 $solutionClass = '\WebAndCow\ChallengeBootstrap\\' . $codeChallenge . '\Solution';
 $solution = new $solutionClass();
 
@@ -20,4 +20,4 @@ if (!empty($_ENV['MODE']) && $_ENV['MODE'] == 'test') {
     $result = (new Game())->resolveWith($solution);
 }
 
-echo $result.PHP_EOL;
+echo $result . PHP_EOL;
