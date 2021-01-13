@@ -301,12 +301,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/var-dumper.git",
-                "reference": "4e40176ae6446c529d4a31cb2dacf7a230cf5f6f"
+                "reference": "76a2bbb001dfacbdadf7981ab1e860b804ceaec2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/var-dumper/zipball/4e40176ae6446c529d4a31cb2dacf7a230cf5f6f",
-                "reference": "4e40176ae6446c529d4a31cb2dacf7a230cf5f6f",
+                "url": "https://api.github.com/repos/symfony/var-dumper/zipball/76a2bbb001dfacbdadf7981ab1e860b804ceaec2",
+                "reference": "76a2bbb001dfacbdadf7981ab1e860b804ceaec2",
                 "shasum": ""
             },
             "require": {
@@ -378,7 +378,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-01-10T16:30:10+00:00"
+            "time": "2021-01-11T09:51:46+00:00"
         },
         {
             "name": "tightenco/collect",
@@ -436,12 +436,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/WebAndCow/webandcow-challenge.git",
-                "reference": "c897451cd6498fe3b81478926a3e5c3040cd1276"
+                "reference": "cda587992ad75c8b3d2f7847a36dbfcbfcc259d3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WebAndCow/webandcow-challenge/zipball/c897451cd6498fe3b81478926a3e5c3040cd1276",
-                "reference": "c897451cd6498fe3b81478926a3e5c3040cd1276",
+                "url": "https://api.github.com/repos/WebAndCow/webandcow-challenge/zipball/cda587992ad75c8b3d2f7847a36dbfcbfcc259d3",
+                "reference": "cda587992ad75c8b3d2f7847a36dbfcbfcc259d3",
                 "shasum": ""
             },
             "require": {
@@ -472,7 +472,7 @@
                 "source": "https://github.com/WebAndCow/webandcow-challenge/tree/main",
                 "issues": "https://github.com/WebAndCow/webandcow-challenge/issues"
             },
-            "time": "2021-01-08T10:57:38+00:00"
+            "time": "2021-01-12T11:23:48+00:00"
         }
     ],
     "packages-dev": [
@@ -2262,12 +2262,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
-                "reference": "9bcb29cce831a8f9b2c8aee0bba1a57445f9dbf1"
+                "reference": "4af4d8462b66f33b24d7a9c4a362184e3ee0aa3a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/9bcb29cce831a8f9b2c8aee0bba1a57445f9dbf1",
-                "reference": "9bcb29cce831a8f9b2c8aee0bba1a57445f9dbf1",
+                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/4af4d8462b66f33b24d7a9c4a362184e3ee0aa3a",
+                "reference": "4af4d8462b66f33b24d7a9c4a362184e3ee0aa3a",
                 "shasum": ""
             },
             "require": {
@@ -2305,7 +2305,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2020-12-15T02:38:00+00:00"
+            "time": "2021-01-13T05:52:33+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",

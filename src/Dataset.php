@@ -6,9 +6,9 @@ namespace WebAndCow\ChallengeBootstrap;
 
 class Dataset
 {
-    public function getDatas(): array
+    public function getData(): array
     {
-        return $this->datas;
+        return $this->data;
     }
 
     public function getResult()

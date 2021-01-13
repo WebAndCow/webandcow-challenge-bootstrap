@@ -8,7 +8,7 @@ use WebAndCow\ChallengeBootstrap\Dataset;
 
 final class Dataset4 extends Dataset
 {
-    protected array $datas = [
+    protected array $data = [
         'resistance' => 43,
         'queue_lezard' => 20,
         'oreille_souris' => 21,
