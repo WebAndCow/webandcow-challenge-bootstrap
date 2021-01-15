@@ -39,7 +39,15 @@ vendor\bin\phpunit src/{CHALLENGE}/SolutionTest.php
 
 
 ## Nouveaux challenges
+
 Lorsque nous mettons en ligne des nouveaux challenges, il faut que tu tires la branche main pour récupérer les nouveaux dossiers associés à ces challenges :
 ```shell
 git pull
 ```
+
+
+## Remerciements
+
+Merci à Jimmy Klein qui a codé les fondations de ce qu'est devenu ce repo !
+Pour des tutos, tips et vidéos autour de PHP, découvrez son site : [https://www.jimmyklein.fr/](https://www.jimmyklein.fr/)
+
